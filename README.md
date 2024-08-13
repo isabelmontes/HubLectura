@@ -34,12 +34,21 @@ Proceso de trabajo:
 
 Diseño de la BD en un  digrama para poder implementarlo por medio de sql. 
 
-
-![ST1](./CapturasPantalla/HL1.jpg)
-En esta imagen, es al vista general que tiene los usuarios para poder acceder a sus listas favoritas y ver el catálago general.
-
 ![ST1](./CapturasPantalla/HL2.jpg)
 La base de datos con los registros se encuentra en esta parte del proyecto, ya cuenta con varios usuarios agregados y registros de libros.
+
+![ST1](./CapturasPantalla/HL3.jpg)
+Para poder ingresar debe acceder con un login  y credenciales
+
+![ST1](./CapturasPantalla/HL1.jpg)
+La base de datos con los registros se encuentra en esta parte del proyecto, ya cuenta con varios usuarios agregados y registros de libros que se pueden consultar una vez que el usuario ha ingresado las contraseñas de manera correcta
+
+![ST1](./CapturasPantalla/HL3.jpg)
+En esta imagen, es al vista general que tiene los usuarios para poder acceder a sus listas favoritas y ver el catálago general.
+
+![ST1](./CapturasPantalla/HL5.jpg)
+En esta parte se carga la información del catalago y el usuario con los botones puede agregarlo a las listas una vez que ha seleccionado el libro con los botones, el cual mostrara las imagenes del estado para agregarlos 
+
 
 
 
